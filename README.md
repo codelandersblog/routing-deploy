@@ -1,6 +1,6 @@
 # Implement and deploy a React app with routes
 
-This is the repository from the [blog post](implement-deploy-a-react-app-with-routes).
+This is the repository from the [blog post](https://codelanders.com/implement-deploy-a-react-app-with-routes/).
 
 ## Quickstart
 
