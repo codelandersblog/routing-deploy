@@ -17,3 +17,11 @@ $ npm start
 ```
 
 Visit http://localhost:8080 to view the app.
+
+## Docker
+
+You can also run everything in a Docker container:
+
+```shell
+$ docker compose up
+```
